@@ -72,7 +72,10 @@ p{
     padding-bottom: 5px;
     font-family: fantasy;
     font-size: 12px;
-}
+    }
 .links:hover{
-    background-color: blue;
+    background-color: white;
+}
+#career{
+    max-width:1000px;
 }
